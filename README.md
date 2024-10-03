@@ -1,4 +1,8 @@
 # Undervisning 2: Introduksjon HTML
 
-Oppgave beskrivelse: 
-Du skal opprette et HTML-dokument som bruker semantisk HTML og inneholder informasjon du selv ønsker å dele. Det første prosjektet i kurset er å lage en hjemmeside som fungerer som en samleside for prosjekter du har laget. Dette kan være et godt tidspunkt for å reflektere over hvilke HTML-elementer du vil trenge for å oppnå dette. Du skal opprette prosjektet i StackBlitz, opprette et GitHub-repository, og til slutt koble repository til Vercel.
+## Undervisnings notater:
+* HTML er et markup språk i programmering som viser innhold til nettsiden.
+* Semantisk HTML er å bruke passende elementer til passende innhold.
+* Elementer som header, main, footer og section blir brukt til inndeling av innhold.
+* h1-h6 blir brukt til overskrifter, men h1-h3 er mest brukt.
+* img legger ved et bilde med egenskapene 'src' for hvor bildet blir lagt til fra og 'alt' som er en alternativ beskrivelse for bildet.
